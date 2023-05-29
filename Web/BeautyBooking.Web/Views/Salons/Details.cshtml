@@ -1,0 +1,37 @@
+﻿@model BeautyBooking.Web.ViewModels.Salons.SalonWithServicesViewModel
+@{
+    this.ViewData["Title"] = "";
+}
+
+<div class="row row-eq-height">
+    
+    <!-- Panel -->
+    <div class="col-lg-7">
+        <h2>Услуги:</h2>
+        <div class="tab_panel active">
+            <div class="tab_panel_content">
+                <div class="tab_list">
+                    <ul>
+                        @foreach (var service in Model.Services.Where(x => x.Available == true))
+                        {
+                            <li>
+                                <div class="tab_list_title">@service.ServiceName</div>
+                                <div class="tab_list_text"><p>@service.ServiceDescription</p></div>
+                                <div class="button info_button">
+                                    <a asp-area="" asp-controller="Appointments" asp-action="MakeAnAppointment" 
+                                       asp-route-salonId="@service.SalonId" asp-route-serviceId="@service.ServiceId">
+                                        <span>Выбрать</span><span>Выбрать</span>
+                                    </a>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/rating-static.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,19 @@
+﻿@using BeautyBooking.Common
+@using BeautyBooking.Data.Models
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<li class="menu_item"><a asp-area="" asp-controller="Home" asp-action="Index">Главная</a></li>
+<li class="menu_item"><a href ="#service_link">Услуги</a></li>
+<li class="menu_item"><a href="#faq_link">FAQ</a></li>
+<li class="menu_item">
+    <a asp-area="" asp-controller="Appointments" asp-action="Index"><i class="fa fa-calendar" aria-hidden="true"></i>Записи</a>
+</li>
+
+@if (this.SignInManager.IsSignedIn(this.User) && this.User.IsInRole(GlobalConstants.SalonManagerRoleName))
+{
+    <li class="menu_item">
+        <a asp-area="Manager" asp-controller="Salons" asp-action="Details" asp-route-id="seededa6df3ba7-d495-4a8a-adb7-7e27ae14b7d9"><i class="fa fa-tasks" aria-hidden="true"></i>Менеджер</a>
+    </li>
+}

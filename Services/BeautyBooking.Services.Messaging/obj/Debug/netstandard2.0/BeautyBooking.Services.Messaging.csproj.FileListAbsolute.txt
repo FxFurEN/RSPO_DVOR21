@@ -1,0 +1,30 @@
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.deps.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.AssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.deps.json
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.csproj.AssemblyReference.cache
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.AssemblyInfoInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.AssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.deps.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\bin\Debug\netstandard2.0\BeautyBooking.Services.Messaging.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.csproj.AssemblyReference.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.AssemblyInfoInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.AssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Messaging\obj\Debug\netstandard2.0\BeautyBooking.Services.Messaging.pdb

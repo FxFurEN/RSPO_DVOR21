@@ -1,0 +1,124 @@
+﻿@model BeautyBooking.Web.ViewModels.Appointments.AppointmentsListViewModel
+@{
+    this.ViewData["Title"] = "Запись онлайн";
+}
+
+@if (@Model.Appointments.Count() == 0)
+{
+    <div class="row">
+        <div class="col-lg-4 ml-lg-5">
+            <div class="about_text_2">
+                <p>
+                    О, нет! Пока ничего...
+                </p>
+            </div>
+            <div class="about_text_highlight">
+                Запишитесь на услугу в 2 простых шага:
+            </div>
+            <div class="about_text_highlight">
+                <ol>
+                    <li>Выберите услугу.</li>
+                    <li> Выберите дату и время.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-4 ml-lg-5">
+            <div class="button button-large button_1 elements_button mt-4">
+                <a asp-area="" asp-controller="Salons" asp-action="Details" asp-route-id="seededa6df3ba7-d495-4a8a-adb7-7e27ae14b7d9">
+                    <span>Записаться</span>
+                    <span>Записаться</span>
+                </a>
+            </div>
+        </div>
+    </div>
+}
+
+@if (@Model.Appointments.Count() > 0)
+{
+    <h2>Ваши записи (@Model.Appointments.Count())</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead class="thead-light">
+            <tr>
+                <th scope="col">Дата и время</th>
+                <th scope="col">Статус <span class="text-info">*</span></th>
+                <th scope="col">Услуга</th>
+                <th scope="col">Отменить</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in this.Model.Appointments)
+            {
+                <tr>
+                    <th scope="row">@appointment.DateTime.ToString("f")</th>
+                    <td>
+                        @if (appointment.Confirmed == true)
+                        {
+                            <span class="badge badge-success">Подтвержден</span>
+                        }
+                        else if (appointment.Confirmed == false)
+                        {
+                            <span class="badge badge-danger">Отменен</span>
+                        }
+                        else
+                        {
+                            <span class="badge badge-secondary">В ожидании</span>
+                        }
+                    </td>
+                    <td>@appointment.ServiceName</td>
+                    <td>
+                        <a class="btn btn-outline-danger btn-sm"
+                           asp-area="" asp-controller="Appointments" asp-action="CancelAppointment" asp-route-id="@appointment.Id">
+                            Отменить
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="row">
+        <div class="col-lg-10 ml-lg-5">
+            <div class="about_text_highlight">
+                <span class="text-info">*</span> Статус
+            </div>
+            <div class="about_text_2">
+                <ol>
+                    <li>
+                        <span class="badge badge-secondary">В ожидании</span>
+                        - Вы находись в ожидание для подвержения или отмены вашей записи.
+                    </li>
+                    <li>
+                        <span class="badge badge-success">Подтвержден</span>
+                        - Хорошо! Ваша запись подтверждена.
+                        Вас ждут в назначенный день и время.
+                    </li>
+                    <li>
+                        <span class="badge badge-danger">Отменен</span>
+                        - Извините, ваша запись не может состояться в назначенный день и время.
+                    </li>
+                </ol>
+                <ul>
+                    <li>Или вы можете <strong>записаться сново.</strong> Помните шаги, верно?</li>
+                    <li>Выберите услугу, затем выберите дату и время.</li>
+                    <li>
+                        <div class="button button-large button_1 elements_button mt-4">
+                            <a asp-area="" asp-controller="Salons" asp-action="Details" asp-route-id="seededa6df3ba7-d495-4a8a-adb7-7e27ae14b7d9">
+                                <span>Записаться</span>
+                                <span>Записаться</span>
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}
+
+<hr class="bg-dark m-4" style="height: 6px;" />
+
+<div>
+    @await Component.InvokeAsync("PastAppointments")
+</div>

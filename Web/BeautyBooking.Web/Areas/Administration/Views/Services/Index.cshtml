@@ -1,0 +1,50 @@
+﻿@model BeautyBooking.Web.ViewModels.Services.ServicesListViewModel
+@using BeautyBooking.Common
+@{
+    this.ViewData["Title"] = "Services";
+}
+
+<h2>
+    Все услуги (@Model.Services.Count())
+    <span>
+        <a class="btn btn-info" asp-area="Administration" asp-controller="Services" asp-action="AddService">Добавление услуг</a>
+    </span>
+</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-light">
+        <tr>
+            <th scope="col">Название</th>
+            <th scope="col">Описание</th>
+            <th scope="col">Записи</th>
+            <th scope="col">Удалить</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var service in this.Model.Services)
+        {
+            <tr>
+                <th scope="row">@service.Name</th>
+                <td>@service.Description</td>
+                <td>@service.AppointmentsCount</td>
+                <td>
+                    @if (service.Id <= GlobalConstants.SeededDataCounts.Services)
+                    {
+                        <div class="text-muted" style="font-size:smaller">
+                            Seeded Data <br />Cannot Be Deleted
+                        </div>
+                    }
+                    else
+                    {
+                        <form method="post">
+                            <button type="submit" class="btn btn-danger btn-sm"
+                                    asp-area="Administration" asp-controller="Services" asp-action="DeleteService" asp-route-id="@service.Id">
+                                Delete
+                            </button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Web\\BeautyBooking.Web.ViewModels\\BeautyBooking.Web.ViewModels.csproj": {}
+  },
+  "projects": {
+    "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\BeautyBooking.Common\\BeautyBooking.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\BeautyBooking.Common\\BeautyBooking.Common.csproj",
+        "projectName": "BeautyBooking.Common",
+        "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\BeautyBooking.Common\\BeautyBooking.Common.csproj",
+        "packagesPath": "C:\\Users\\gangs\\.nuget\\packages\\",
+        "outputPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\BeautyBooking.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.164, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Common\\BeautyBooking.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Common\\BeautyBooking.Data.Common.csproj",
+        "projectName": "BeautyBooking.Data.Common",
+        "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Common\\BeautyBooking.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\gangs\\.nuget\\packages\\",
+        "outputPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.164, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Models\\BeautyBooking.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Models\\BeautyBooking.Data.Models.csproj",
+        "projectName": "BeautyBooking.Data.Models",
+        "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Models\\BeautyBooking.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\gangs\\.nuget\\packages\\",
+        "outputPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\BeautyBooking.Common\\BeautyBooking.Common.csproj": {
+                "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\BeautyBooking.Common\\BeautyBooking.Common.csproj"
+              },
+              "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Common\\BeautyBooking.Data.Common.csproj": {
+                "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Common\\BeautyBooking.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.164, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Services\\BeautyBooking.Services.Mapping\\BeautyBooking.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Services\\BeautyBooking.Services.Mapping\\BeautyBooking.Services.Mapping.csproj",
+        "projectName": "BeautyBooking.Services.Mapping",
+        "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Services\\BeautyBooking.Services.Mapping\\BeautyBooking.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\gangs\\.nuget\\packages\\",
+        "outputPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Services\\BeautyBooking.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.164, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Web\\BeautyBooking.Web.ViewModels\\BeautyBooking.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Web\\BeautyBooking.Web.ViewModels\\BeautyBooking.Web.ViewModels.csproj",
+        "projectName": "BeautyBooking.Web.ViewModels",
+        "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Web\\BeautyBooking.Web.ViewModels\\BeautyBooking.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\gangs\\.nuget\\packages\\",
+        "outputPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Web\\BeautyBooking.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Models\\BeautyBooking.Data.Models.csproj": {
+                "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Data\\BeautyBooking.Data.Models\\BeautyBooking.Data.Models.csproj"
+              },
+              "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Services\\BeautyBooking.Services.Mapping\\BeautyBooking.Services.Mapping.csproj": {
+                "projectPath": "C:\\3 курс\\рспо\\сдал\\RSPO_DVOR21\\Services\\BeautyBooking.Services.Mapping\\BeautyBooking.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.164, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

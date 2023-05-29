@@ -1,0 +1,30 @@
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.deps.json
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.csproj.AssemblyReference.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.AssemblyInfoInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.AssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.csproj.CoreCompileInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.pdb
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.deps.json
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.pdb
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.csproj.AssemblyReference.cache
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.AssemblyInfoInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.AssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\3 курс\рспо\BeautyBooking-master\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.deps.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\bin\Debug\netstandard2.0\BeautyBooking.Common.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.csproj.AssemblyReference.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.AssemblyInfoInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.AssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\BeautyBooking.Common\obj\Debug\netstandard2.0\BeautyBooking.Common.pdb

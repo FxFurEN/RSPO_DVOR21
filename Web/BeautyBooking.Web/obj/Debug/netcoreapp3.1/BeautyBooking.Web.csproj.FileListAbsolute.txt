@@ -1,0 +1,791 @@
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.StaticWebAssets.xml
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.exe
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.deps.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.runtimeconfig.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.runtimeconfig.dev.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Views.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Views.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Common.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Common.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Models.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Data.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Mapping.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Messaging.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Infrastructure.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.ViewModels.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Models.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Data.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Mapping.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Messaging.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Infrastructure.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.ViewModels.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Common.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Common.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.AssemblyReference.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.AssemblyInfoInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.AssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.CoreCompileInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorAssemblyInfo.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorAssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\staticwebassets\BeautyBooking.Web.StaticWebAssets.Manifest.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\staticwebassets\BeautyBooking.Web.StaticWebAssets.xml
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.TagHelpers.input.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.TagHelpers.output.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorCoreGenerate.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Appointments\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Services\AddService.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Services\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminHeaderPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminSidebarPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\_ViewImports.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\_ViewStart.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Salons\Details.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\Components\AllAppointmentsBySalon\Default.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\Components\SalonsSimpleList\Default.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerHeaderPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerLayout.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerMenuPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerSidebarPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\_ViewImports.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\_ViewStart.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\CancelAppointment.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\MakeAnAppointment.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\RatePastAppointment.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\UnavailableService.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Salons\Details.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Salons\Index.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriesSimpleList\Default.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PastAppointments\Default.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SalonServiceDetails\Default.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error404.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuItemsPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBarPartial.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorTargetAssemblyInfo.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorTargetAssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.Views.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.CopyComplete
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.genruntimeconfig.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.StaticWebAssets.xml
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.exe
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.deps.json
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.runtimeconfig.json
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.runtimeconfig.dev.json
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Views.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Views.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Common.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Common.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Models.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Data.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Mapping.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Messaging.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Infrastructure.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.ViewModels.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Models.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Data.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Mapping.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Messaging.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Infrastructure.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.ViewModels.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Common.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Common.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.AssemblyReference.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.AssemblyInfoInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.AssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorAssemblyInfo.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorAssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\staticwebassets\BeautyBooking.Web.StaticWebAssets.Manifest.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\staticwebassets\BeautyBooking.Web.StaticWebAssets.xml
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.TagHelpers.input.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.TagHelpers.output.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorCoreGenerate.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Appointments\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Services\AddService.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Services\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminHeaderPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminSidebarPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Dashboard\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Salons\Details.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\Components\AllAppointmentsBySalon\Default.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\Components\SalonsSimpleList\Default.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerHeaderPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerLayout.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerMenuPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerSidebarPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\CancelAppointment.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\MakeAnAppointment.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\RatePastAppointment.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\UnavailableService.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Salons\Details.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Salons\Index.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriesSimpleList\Default.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PastAppointments\Default.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SalonServiceDetails\Default.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error404.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuItemsPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBarPartial.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorTargetAssemblyInfo.cache
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorTargetAssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.Views.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.CopyComplete
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.dll
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.pdb
+C:\3 курс\рспо\BeautyBooking-master\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.genruntimeconfig.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\libman.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.StaticWebAssets.xml
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.exe
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.deps.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.runtimeconfig.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.runtimeconfig.dev.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Views.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Views.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Common.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Common.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Models.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Data.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Mapping.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Messaging.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Infrastructure.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.ViewModels.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Models.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Data.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Mapping.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.Messaging.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Services.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.Infrastructure.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Web.ViewModels.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Common.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\bin\Debug\netcoreapp3.1\BeautyBooking.Data.Common.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.AssemblyReference.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.AssemblyInfoInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.AssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorAssemblyInfo.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorAssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\staticwebassets\BeautyBooking.Web.StaticWebAssets.Manifest.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\staticwebassets\BeautyBooking.Web.StaticWebAssets.xml
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.TagHelpers.input.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.TagHelpers.output.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorCoreGenerate.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Appointments\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Services\AddService.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Services\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminHeaderPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\Shared\_AdminSidebarPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Administration\Views\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Dashboard\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Salons\Details.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\Components\AllAppointmentsBySalon\Default.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\Components\SalonsSimpleList\Default.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerHeaderPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerLayout.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerMenuPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\Shared\_ManagerSidebarPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Manager\Views\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\CancelAppointment.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\MakeAnAppointment.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\RatePastAppointment.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Appointments\UnavailableService.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Salons\Details.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Salons\Index.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriesSimpleList\Default.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PastAppointments\Default.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\SalonServiceDetails\Default.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error404.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuItemsPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchBarPartial.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorTargetAssemblyInfo.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.RazorTargetAssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.Views.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.csproj.CopyComplete
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Web\BeautyBooking.Web\obj\Debug\netcoreapp3.1\BeautyBooking.Web.genruntimeconfig.cache

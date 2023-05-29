@@ -1,0 +1,63 @@
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.deps.json
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Common.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Common.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Models.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Mapping.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Web.ViewModels.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Common.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Models.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Web.ViewModels.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Mapping.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Common.pdb
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.AssemblyReference.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.AssemblyInfoInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.AssemblyInfo.cs
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.CopyComplete
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.dll
+C:\Users\gangs\Desktop\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.deps.json
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Common.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Common.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Models.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Mapping.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Web.ViewModels.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Common.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Models.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Web.ViewModels.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Mapping.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Common.pdb
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.AssemblyReference.cache
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.AssemblyInfoInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.AssemblyInfo.cs
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.CopyComplete
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.dll
+C:\3 курс\рспо\BeautyBooking-master\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.deps.json
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Data.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Common.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Common.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Models.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Mapping.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Web.ViewModels.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Common.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Data.Models.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Web.ViewModels.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Services.Mapping.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\bin\Debug\netstandard2.1\BeautyBooking.Common.pdb
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.AssemblyReference.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.AssemblyInfoInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.AssemblyInfo.cs
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.CoreCompileInputs.cache
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.csproj.CopyComplete
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.dll
+C:\3 курс\рспо\сдал\RSPO_DVOR21\Services\BeautyBooking.Services.Data\obj\Debug\netstandard2.1\BeautyBooking.Services.Data.pdb
